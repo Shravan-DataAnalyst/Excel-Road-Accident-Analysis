@@ -1,20 +1,36 @@
 # Excel-Road-Accident-Analysis
 
-🚗📊 Excited to share my latest project: 𝗔𝗻 𝗘𝘅𝗰𝗲𝗹 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝗨𝗞 𝗿𝗼𝗮𝗱 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁 𝗱𝗮𝘁𝗮! 📈
+## Objective:
+The main objective of this project is to analyze the road accident in two different years. Finding total number of casualties happened in Two years which helps in getting actionable insights that will helps in reducing road accident by taking necessary measures.
 
-I've dived deep into the numbers to uncover insights about accident trends, locations, and contributing factors. 📉📍
+## Key Findings:
+### Primary KPI:
+- Total Casualties
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+- Total Casualties by Vehicle Type
 
-𝗧𝗼𝗼𝗹 𝗨𝘀𝗲𝗱: 𝗘𝘅𝗰𝗲𝗹
+### Secondary KPI:
+- Current year casualties by Monthly Trend
+- Previous year casualties by Monthly Trend
+- Casualties by Road Surface
+- Casualties by Road Type
+- Casualties by Location/Area
+- Casualties by Light Condition
 
-𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗙𝗼𝗹𝗹𝗼𝘄𝗲𝗱:
+## Conclusion:
+- When we see the analysis we get to know that the casualties are happened more on Car.
+- When we compare the casualties between two year that is 2021 and 2022, The number of casualties is decreasing in 2022 when you compared to 2021.
 
+
+## Process followed:
 1. 𝗥𝗲𝗮𝗱𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 for better Understanding.
 2. 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 it as required.
 3. 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 and creating additional columns like month and year.
 4. 𝗗𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 with the help of Pivot Tables
 
-𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
-
+## Learning from this project:
 1. Creating Multiple Pivots and Exploring to analyze.
 2. Utilization of formula and making dashboard dynamic.
 3. Use of Hyperlink for easy navigation and drop email as required
